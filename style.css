@@ -1,7 +1,6 @@
 html {
     font-family: 'Montserrat', sans-serif;
     margin: auto;
-    transform: translate(0, 50%);
 }
 body {
     background-image: url("imgs/background.png");
@@ -10,6 +9,7 @@ body {
     background-position: center;
     background-attachment: fixed;
     overflow: hidden;
+    transform: translate(0, 50%);
 }
 h1 {
     color: white;
