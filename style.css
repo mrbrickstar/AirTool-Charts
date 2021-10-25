@@ -10,6 +10,7 @@ body {
     background-position: center;
     background-attachment: fixed;
     overflow: hidden;
+    margin-top: -175px;
 }
 h1 {
     color: white;
