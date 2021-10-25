@@ -4,7 +4,8 @@ html {
     transform: translate(0, 50%);
 }
 body {
-    background-image: url("imgs/HeaderImg.webp");
+    background-image: url("imgs/background.png");
+    background-size: cover;
 }
 h1 {
     color: white;
@@ -14,7 +15,7 @@ h1 {
 }
 .powered {
     font-size: small;
-    color: #fff;
+    color: white;
 }
 .search {
     margin-top: 10px;
