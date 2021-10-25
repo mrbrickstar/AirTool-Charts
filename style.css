@@ -4,7 +4,7 @@ html {
     transform: translate(0, 50%);
 }
 body {
-    background-image: url("/imgs/HeaderImg.webp");
+    background-image: url("imgs/HeaderImg.webp");
 }
 h1 {
     color: white;
